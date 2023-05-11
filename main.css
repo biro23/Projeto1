@@ -1,0 +1,37 @@
+header .container h1 {
+    background-color: #00ff7f;
+    text-align: center;
+    justify-content: space-between;
+}
+
+body {
+    background-color: lightblue;
+}
+
+section .container img {
+    width: 30%;
+    height: 350px;
+      
+}
+
+header .container nav li {
+    text-align: right;
+    display: block;
+  
+}
+
+section {
+    padding: 24px;
+    border: 10px;
+}
+
+head {
+    font-family: 'Bungee', cursive;
+}
+
+button {
+    background-color: blue;
+    color: aliceblue;
+}
+
+
